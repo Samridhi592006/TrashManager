@@ -1,1 +1,2 @@
-# TrashManager
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
